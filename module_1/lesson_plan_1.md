@@ -79,16 +79,16 @@ _click on the image above to access slides_
 
 ## 6. Introduction to Data Visualizations (30 minutes)
 
-- [ ] **Overview of Common Visualizations:**
+- [x] **Overview of Common Visualizations:**
   - **[Pie Chart](https://www.storytellingwithdata.com/blog/2020/5/14/what-is-a-pie-chart):** Best for showing proportions or percentages of a whole.
   - **[Bar Chart](https://www.storytellingwithdata.com/blog/2020/2/19/what-is-a-bar-chart):** Ideal for comparing different groups or categories.
   - **[Line Chart](https://www.storytellingwithdata.com/blog/2020/3/24/what-is-a-line-graph):** Useful for showing trends over time.
   - **[Scatter Plot](https://www.storytellingwithdata.com/blog/2020/5/27/what-is-a-scatterplot):** Best for examining relationships between two variables.
 
-- [ ] **When to Use Each Visualization:**
+- [x] **When to Use Each Visualization:**
   - Discuss the scenarios where each type of chart is most effective.
 
-- [ ] **Hands-On Activity:**
+- [x] **Hands-On Activity:**
   - Review the pre-work excel/google dashboard assignment in small groups
   - Discuss challenges from the project & wins
   - Take time to make some improvements based on data visualization best practices
@@ -97,9 +97,9 @@ _click on the image above to access slides_
 
 ## 7. Basic Statistics: Mean, Median, and Mode (30 minutes)
 
-- [ ] [Bill Gates Walks Into a Bar](https://introductorystats.wordpress.com/2011/09/04/when-bill-gates-walks-into-a-bar/)
+- [x] [Bill Gates Walks Into a Bar](https://introductorystats.wordpress.com/2011/09/04/when-bill-gates-walks-into-a-bar/)
 
-- [ ] **Definitions and Examples:**
+- [x] **Definitions and Examples:**
   - **Mean:** The average of a set of numbers.  
     Example: Calculating the average weekly grocery spend.
   - **Median:** The middle value in a set of numbers.  
@@ -114,4 +114,4 @@ _click on the image above to access slides_
 
 ## 7. Q&A and Closing (15 minutes)
 
-- [ ] Next Steps - look out for an email & post in slack for the AI foundations module & the assignment completion dates (Wednesday & Saturday). 
+- [x] Next Steps - look out for an email & post in slack for the AI foundations module & the assignment completion dates (Wednesday & Saturday). 
