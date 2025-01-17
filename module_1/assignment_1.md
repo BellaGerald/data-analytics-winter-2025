@@ -30,7 +30,8 @@ You will ask ChatGPT the following question:
 - **b. Analysis:**  
   - Evaluate the response: Was the explanation clear? Did the steps work? Were there any errors or missing steps?  
   - Suggest how the explanation could be improved, if necessary.
-
+  - 
+  The Chat GPT answer was pretty clear. I was able to follow the instructions without any problems.
 ---
 
 ### 3. **Comparison**  
@@ -39,12 +40,14 @@ You will ask ChatGPT the following question:
   - Was the Google result more or less detailed?  
   - Did you find videos, articles, or blog posts helpful?  
   - Include any relevant link(s) you found helpful and explain why.
-
+    
+  In Google I first answer was from an AI generate answer similar to ChatGPT. However, i like that Google also provides acess to YouTube videos demonstrating how to complete the task. As a visual learner, I found the video instructions much more helpful.  This video has straightforward instructions. https://www.youtube.com/watch?v=a60852orvZE
 ---
 
 ### 4. **Pick Another Scenario*  
 - Ask ChatGPT another data question as it relates to how to do something in excel/google sheets 
-- Which resource you found most effective for this? 
+- Which resource you found most effective for this?
+I couldn't think of a questions to ask. Sorry!
 ---
 
 ### 5. **When to Use Which Resource**  
@@ -53,14 +56,14 @@ Write a short response below explaining when it would be appropriate to use Chat
 - Complexity of the problem  
 - Need for detailed visual instructions  
 - Level of confidence in verifying the accuracy of the information  
-
+Google searches great for urgent, real-time updates or breaking news. It provides the latest information from various sources. ChatGPT is useful for quick, contextual answers to general questions. ChatGPT is better at breaking down complex topics, it offers step by steps solutions, and it personalizes the response to your needs. Google is better for simple, direct, factual answers. Google is ideal for tutorials with images or videos. ChatGPT provides textual instruction not visual aids. You can cross-reference multiple sources with Google. While ChatGPT is best used for concise explanation, you still need to verify the information with a reliable source.
 ---
 
 ### 6. **Final Reflection**  
 Reflect on your experience using ChatGPT vs Google and describe:  
 - Which resource you found most effective for this task and why.  
 - How this exercise influenced your approach to learning new data skills in the future.  
-
+For tasks requiring hands-on practice, like creating pivot charts in Excel, Google is often more effective because it offers detailed visual tutorials (e.g., YouTube videos or illustrated guides). This exercise emphasizes the value of combining resources. ChatGPT is great for quick concept explanations or personalized guidance, while Google provides diverse and detailed materials for in-depth exploration. In the future, I’ll use ChatGPT to clarify initial doubts and turn to Google for additional verification and visual aids, ensuring a balanced and comprehensive learning approach.
 ---
 
 ## **Submission Requirements:**  
