@@ -20,10 +20,11 @@ You will ask ChatGPT the following question:
 **_"How do you sort the values in a pivot chart by descending order in Excel?"_** (or Google Sheets if that is what you are using) 
 
 - **a. Ask ChatGPT:**  
-  - Screenshot ChatGPT's response and include below. 
-  - Implement the instructions provided by ChatGPT in Excel or Google Sheets to test if they work.
+  - Screenshot ChatGPT's response and include below.
  
     ![image](https://github.com/user-attachments/assets/59e76a28-6b6d-4d5a-974f-a8e899fdb4cd)
+    
+  - Implement the instructions provided by ChatGPT in Excel or Google Sheets to test if they work.
  
 
 - **b. Analysis:**  
