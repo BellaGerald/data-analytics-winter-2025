@@ -22,15 +22,15 @@ You will ask ChatGPT the following question:
 - **a. Ask ChatGPT:**  
   - Screenshot ChatGPT's response and include below.
  
-    ![image](https://github.com/user-attachments/assets/59e76a28-6b6d-4d5a-974f-a8e899fdb4cd)
-    
+  ![image](https://github.com/user-attachments/assets/b8376d66-38dd-41dd-8241-ba7ecd5896af)
+
   - Implement the instructions provided by ChatGPT in Excel or Google Sheets to test if they work.
  
 
 - **b. Analysis:**  
   - Evaluate the response: Was the explanation clear? Did the steps work? Were there any errors or missing steps?  
   - Suggest how the explanation could be improved, if necessary.
-  - 
+
   The Chat GPT answer was pretty clear. I was able to follow the instructions without any problems.
 ---
 
@@ -62,7 +62,7 @@ Google searches great for urgent, real-time updates or breaking news. It provide
 ### 6. **Final Reflection**  
 Reflect on your experience using ChatGPT vs Google and describe:  
 - Which resource you found most effective for this task and why.  
-- How this exercise influenced your approach to learning new data skills in the future.  
+- How this exercise influenced your approach to learning new data skills in the future.
 For tasks requiring hands-on practice, like creating pivot charts in Excel, Google is often more effective because it offers detailed visual tutorials (e.g., YouTube videos or illustrated guides). This exercise emphasizes the value of combining resources. ChatGPT is great for quick concept explanations or personalized guidance, while Google provides diverse and detailed materials for in-depth exploration. In the future, I’ll use ChatGPT to clarify initial doubts and turn to Google for additional verification and visual aids, ensuring a balanced and comprehensive learning approach.
 ---
 
