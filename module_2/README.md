@@ -75,9 +75,9 @@ _Est. Time to Complete: (30 mins)_
 
 Pivot tables are powerful tools for summarizing, analyzing, and exploring data. In this section, students will learn how to create pivot tables to quickly extract key insights from large datasets. We will cover how to group, filter, and sort data, as well as how to customize the layout to answer specific business questions.
 
-- [ ] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=DsyZu_e9TrHPrr7o&t=16121) and mark when complete
-- [ ] Download dataset from [Kaggle](https://www.kaggle.com/datasets/sadiqshah/bike-sales-in-europe?resource=download) and open in Excel or Google Sheets
-- [ ] Complete the hands-on activity
+- [x] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=DsyZu_e9TrHPrr7o&t=16121) and mark when complete
+- [x] Download dataset from [Kaggle](https://www.kaggle.com/datasets/sadiqshah/bike-sales-in-europe?resource=download) and open in Excel or Google Sheets
+- [x] Complete the hands-on activity
 
 ---
 
@@ -87,10 +87,10 @@ _Est. Time to Complete: (30 mins)_
 
 Visualizing data is a critical skill in data analytics. This section will guide students through the process of creating various types of charts, such as bar, line, and pie charts, to represent data clearly and effectively. Students will learn best practices for selecting the right chart type and formatting it to communicate their findings visually.
 
-- [ ] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=HXkI655b-v2RuNvo&t=21589) and mark when complete
-- [ ] Excel users: download [.xls file](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Charts%20Tutorial%20File.xlsx)
-- [ ] Google Sheets users: make a copy of the [google sheet](https://docs.google.com/spreadsheets/d/1JVPEzRH7ePeK0GaJZJK1SpfnlrDjWOLeQb_8z8vD10I/edit?usp=sharing)
-- [ ] Complete the hands-on activity
+- [x] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=HXkI655b-v2RuNvo&t=21589) and mark when complete
+- [x] Excel users: download [.xls file](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Charts%20Tutorial%20File.xlsx)
+- [x] Google Sheets users: make a copy of the [google sheet](https://docs.google.com/spreadsheets/d/1JVPEzRH7ePeK0GaJZJK1SpfnlrDjWOLeQb_8z8vD10I/edit?usp=sharing)
+- [x] Complete the hands-on activity
 
 ---
 
@@ -113,11 +113,10 @@ Visualizing data is a critical skill in data analytics. This section will guide 
 _Est. Time to Complete: (1.5 hrs)_
 
 In the final section, students will learn how to bring together all the skills they've acquired to create an interactive and aesthetic spreadsheet dashboard. This dashboard will serve as a dynamic tool for presenting data insights, including charts, pivot tables, and key metrics. Students will focus on layout, design principles, and interactivity to ensure their dashboards are both functional and visually appealing.
-
-- [ ] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=Hu0HebxQCSzSWeR4&t=23762) and mark when complete
-- [ ] Excel users: download [.xls file](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx)
-- [ ] Google Sheets users: make a copy of the [google sheet](https://docs.google.com/spreadsheets/d/1885w07YyzbRQqfIGHvJSftNU42rJVOUHpkWfNROLlbM/edit?usp=sharing)
-- [ ] Complete the Dashboard and share in [this discussion](https://github.com/Tech-Moms/data-analytics-winter-2025/discussions/20) thread. 
+- [x] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=Hu0HebxQCSzSWeR4&t=23762) and mark when complete
+- [x] Excel users: download [.xls file](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx)
+- [x] Google Sheets users: make a copy of the [google sheet](https://docs.google.com/spreadsheets/d/1885w07YyzbRQqfIGHvJSftNU42rJVOUHpkWfNROLlbM/edit?usp=sharing)
+- [x] Complete the Dashboard and share in [this discussion](https://github.com/Tech-Moms/data-analytics-winter-2025/discussions/20) thread. 
 
 ----
 
