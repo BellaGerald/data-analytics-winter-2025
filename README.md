@@ -18,7 +18,7 @@ Welcome to the **Tech-Moms Data Analytics Course**! This course is designed to e
 | | Saturday, March 29 -  🕙 10 AM - 2 PM - 📍 *Domo - American Fork, UT* |
 | | Saturday, May 3 - 🕙 10 AM - 2 PM - 🎓 *GRADUATION DAY* - 📍 *TBD* |
 | **Instructors:**       | Alyson La + Kelsey Taylor |
-| **Class Mentors:** | Tanya Seegmiller, Keenan Engstrom, Aproova Bura, + Worthy Lee | 
+| **Class Mentors:** | Tanya Seegmiller, Keenan Engstrom, Apoorva Bura, + Worthy Lee | 
 
 ---
 
@@ -30,8 +30,7 @@ Welcome to the **Tech-Moms Data Analytics Course**! This course is designed to e
 
 1. [Course Syllabus](#course-syllabus)
 2. [Using GitHub for our Class](#using-github-for-our-class)
-3. [Modules & Weekly Breakdown](#modules--weekly-breakdown)
-4. [How to Contribute](#how-to-contribute)
+3. [How to Contribute](#how-to-contribute)
 
 ---
 
@@ -56,17 +55,6 @@ To do this, you will:
 <img width="319" alt="Screenshot_2024-08-03_at_4_01_30_AM" src="https://github.com/user-attachments/assets/5af0368f-f125-4279-b433-92e76aae72bf">
 
 This approach will help you build familiarity with GitHub, an essential tool in the developer and data analytics community. Additionally, using GitHub will allow you to showcase your work and track your progress. 
-
-## **Modules & Weekly Breakdown**
-
-### **Module 1: Data Analytics & AI Foundations**
-- 📚 **Topics Covered:**
-  - What is Data Analytics?
-  - Overview of the Data Analytics Lifecycle
-  - Roles in Data Analytics
-- 🔗 [Lesson Plan](./module_1/lesson_plan_1.md)
-
-### **Module 2: Excel/Google Sheets**
 
 ---
 
